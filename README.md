@@ -1,3 +1,3 @@
 # DataVisualization
 Visualization libraries 
-Pyplot: A data visualization library bettr than matplotli and seaboarn
+Pyplot: A data visualization library better than matplotlib and seaborn
